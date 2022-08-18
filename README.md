@@ -3,6 +3,7 @@
 
 <p style="text-align:center">
       <img
+        align="center"
         src="https://komarev.com/ghpvc/?username=huynhthao12a3&label=Profile%20views&color=0e75b6&style=flat"
         alt="huynhthao12a3"
       />
