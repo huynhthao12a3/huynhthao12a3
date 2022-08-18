@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huynh Thao.</h1>
     <h3 align="center">A passionate frontend developer from Vietnam.</h3>
 
-    <p align="center">
+    <p >
       <img
+      align="left"
         src="https://komarev.com/ghpvc/?username=huynhthao12a3&label=Profile%20views&color=0e75b6&style=flat"
         alt="huynhthao12a3"
       />
