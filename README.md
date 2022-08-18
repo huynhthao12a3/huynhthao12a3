@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Huynh Thao.</h1>
     <h3 align="center">A passionate frontend developer from Vietnam.</h3>
 
-    <p >
+<p class="text-center">
       <img
-      align="left"
         src="https://komarev.com/ghpvc/?username=huynhthao12a3&label=Profile%20views&color=0e75b6&style=flat"
         alt="huynhthao12a3"
       />
     </p>
 
-    <h3 class="ms-1" align="left">Programming Languages</h3>
+<h3 class="ms-1" align="left">Programming Languages</h3>
     <div
       id="programming-languages"
       class="d-flex mx-3 justify-content-around"
@@ -28,7 +27,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Javascript</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -47,7 +46,7 @@
       </div>
     </div>
 
-    <h3 class="mt-5 ms-1" align="left">Frontend Development</h3>
+<h3 class="mt-5 ms-1" align="left">Frontend Development</h3>
     <div
       id="frontend-development"
       class="d-flex mx-3 justify-content-around"
@@ -71,7 +70,7 @@
         <h4 class="text-center fw-light ps-3 m-0">HTML5</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -89,7 +88,7 @@
         <h4 class="text-center fw-light ps-3 m-0">CSS3</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -107,7 +106,7 @@
         <h4 class="text-center fw-light ps-3 m-0">SASS</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -125,7 +124,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Bootstrap</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -144,7 +143,7 @@
       </div>
     </div>
 
-    <h3 class="mt-5 ms-1" align="left">Database</h3>
+<h3 class="mt-5 ms-1" align="left">Database</h3>
     <div
       id="database"
       class="d-flex mx-3 justify-content-around"
@@ -168,7 +167,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Sql Server</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -187,7 +186,7 @@
       </div>
     </div>
 
-    <h3 class="mt-5 ms-1" align="left">Data Visualization</h3>
+<h3 class="mt-5 ms-1" align="left">Data Visualization</h3>
     <div
       id="data-visualization"
       class="d-flex mx-3 justify-content-around"
@@ -211,7 +210,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Chartjs</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -230,7 +229,7 @@
       </div>
     </div>
 
-    <h3 class="mt-5 ms-1" align="left">Devops</h3>
+<h3 class="mt-5 ms-1" align="left">Devops</h3>
     <div
       id="devops"
       class="d-flex mx-3 justify-content-around"
@@ -254,7 +253,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Jenkins</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -273,7 +272,7 @@
       </div>
     </div>
 
-    <h3 class="mt-5 ms-1" align="left">Tools</h3>
+<h3 class="mt-5 ms-1" align="left">Tools</h3>
     <div
       id="tools"
       class="d-flex mx-3 justify-content-around"
@@ -297,7 +296,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Figma</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -315,7 +314,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Photoshop</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -333,7 +332,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Postman</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -352,7 +351,7 @@
       </div>
     </div>
 
-    <h3 class="mt-5 ms-1" align="left">Other</h3>
+<h3 class="mt-5 ms-1" align="left">Other</h3>
     <div
       id="other"
       class="d-flex mx-3 justify-content-around"
@@ -376,7 +375,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Git</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -394,7 +393,7 @@
         <h4 class="text-center fw-light ps-3 m-0">Wordpress</h4>
       </div>
 
-      <div
+<div
         class="px-3 py-4 d-flex items-center justify-content-between align-items-center"
         style="
           opacity: 1;
@@ -413,7 +412,7 @@
       </div>
     </div>
 
-    <div id="" class="d-flex mt-5 justify-content-center">
+<div id="" class="d-flex mt-5 justify-content-center">
       <p>
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhthao12a3&show_icons=true&locale=en&layout=compact"
@@ -422,7 +421,7 @@
       </p>
     </div>
 
-    <div id="" class="d-flex mt-3 justify-content-around">
+<div id="" class="d-flex mt-3 justify-content-around">
       <p>
         &nbsp;<img
           src="https://github-readme-stats.vercel.app/api?username=huynhthao12a3&show_icons=true&locale=en"
@@ -437,4 +436,14 @@
       </p>
     </div>
 
- 
+<link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
