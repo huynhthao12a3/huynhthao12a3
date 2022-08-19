@@ -46,7 +46,7 @@
 <h3 align="left">Devops:</h3>
 <span > <img src="https://img.shields.io/badge/Jenkins-F9FAFB?logo=jenkins&logoColor=D24939" alt="oracle" height="36"/> </span>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<span > <img src="https://img.shields.io/badge/Azure DevOps-F9FAFB?logo=AzureDevOps&logoColor=0078D7" alt="AzureDevOps" height="36"/> </span>
+<span > <img src="https://img.shields.io/badge/Azure-F9FAFB?logo=AzureDevOps&logoColor=0078D7" alt="AzureDevOps" height="36"/> </span>
 
 &nbsp;
 
