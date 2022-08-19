@@ -28,7 +28,7 @@
       </div>
 
 <div
-  align="left"
+  align="center"
         style="
           opacity: 1; border-radius: 12px; background-color: #dee2e6; padding-right: 12px; padding-left: 12px; padding-top: 16px; padding-bottom: 16px; display: flex; justify-content: between; align-items:center
         "
