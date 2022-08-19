@@ -12,12 +12,8 @@
 <h3 style="margin-left: 4px" align="left">Programming Languages</h3>
     <span
     align="left"
-      id="programming-languages"
-      style="height: 60px; display:flex; margin-right: 8px; margin-left: 8px; justify-content: space-around"
     >
-      <span
-        style="opacity: 1; border-radius: 12px; background-color: #dee2e6; padding-right: 12px; padding-left: 12px; padding-top: 16px; padding-bottom: 16px; display: flex; justify-content: between; align-items:center"
-      >
+     <span>
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
           alt="javascript"
@@ -25,14 +21,9 @@
           class=""
         />
         <h4 class="text-center fw-light ps-3 m-0">Javascript</h4>
-      </span>
+     </span>
 
-<span
-  align="center"
-        style="
-          opacity: 1; border-radius: 12px; background-color: #dee2e6; padding-right: 12px; padding-left: 12px; padding-top: 16px; padding-bottom: 16px; display: flex; justify-content: between; align-items:center
-        "
-      >
+<span>
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
           alt="typescript"
