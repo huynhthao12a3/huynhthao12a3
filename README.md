@@ -1,9 +1,10 @@
 <h1 align="center">👋 Hi, I'm Huynh Thao.</h1>
 <h2 align="center">A passionate frontend developer from Vietnam.</h2>
 &nbsp;
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=huynhthao12a3&label=Profile%20views&color=0e75b6&style=flat" alt="huynhthao12a3" height="30"/> </p>
-&nbsp;
-<p align="center"> <img src="https://img.shields.io/badge/Gmail-huynhthao12a3@gmail.com-F9FAFB?logo=gmail&logoColor=EA4335&color=ff69b4" alt="gmail" height="30"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=huynhthao12a3&label=Profile%20views&color=0e75b6&style=flat" alt="huynhthao12a3" height="24"/>
+ &nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="https://img.shields.io/badge/Gmail-huynhthao12a3@gmail.com-F9FAFB?logo=gmail&logoColor=EA4335&color=ff69b4" alt="gmail" height="24"/>
+</p>
 &nbsp;
 <p align="center"> <span href="#"><img src="https://github-profile-trophy.vercel.app/?username=huynhthao12a3" alt="huynhthao12a3" /></span> </p>
 
