@@ -75,5 +75,5 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhthao12a3&show_icons=true&locale=en&layout=compact&title_color=ff69b4&bg_color=F9FAFB" alt="huynhthao12a3" /></p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=huynhthao12a3&show_icons=true&locale=en&title_color=ff69b4&icon_color=ff69b4&bg_color=F9FAFB" alt="huynhthao12a3" /></p>
-&nbsp;
+
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=huynhthao12a3&title_color=ff69b4&background=F9FAFB&theme=bear" alt="huynhthao12a3" /></p>
