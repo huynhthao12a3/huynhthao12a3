@@ -15,7 +15,7 @@
       id="programming-languages"
       style="height: 60px; display:flex; margin-right: 8px; margin-left: 8px; justify-content: space-around"
     >
-      <div
+      <span
         style="opacity: 1; border-radius: 12px; background-color: #dee2e6; padding-right: 12px; padding-left: 12px; padding-top: 16px; padding-bottom: 16px; display: flex; justify-content: between; align-items:center"
       >
         <img
@@ -25,9 +25,9 @@
           class=""
         />
         <h4 class="text-center fw-light ps-3 m-0">Javascript</h4>
-      </div>
+      </span>
 
-<div
+<span
   align="center"
         style="
           opacity: 1; border-radius: 12px; background-color: #dee2e6; padding-right: 12px; padding-left: 12px; padding-top: 16px; padding-bottom: 16px; display: flex; justify-content: between; align-items:center
@@ -40,7 +40,7 @@
           class=""
         />
         <h4 class="text-center fw-light ps-3 m-0">Typescript</h4>
-      </div>
+      </span>
     </div>
 
 <h3 class="mt-5 ms-1" align="left">Frontend Development</h3>
