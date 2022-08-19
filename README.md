@@ -10,7 +10,7 @@
     </p>
 
 <h3 style="margin-left: 4px" align="left">Programming Languages</h3>
-    <div
+    <span
     align="left"
       id="programming-languages"
       style="height: 60px; display:flex; margin-right: 8px; margin-left: 8px; justify-content: space-around"
@@ -41,7 +41,7 @@
         />
         <h4 class="text-center fw-light ps-3 m-0">Typescript</h4>
       </span>
-    </div>
+    </span>
 
 <h3 class="mt-5 ms-1" align="left">Frontend Development</h3>
     <div
