@@ -53,7 +53,7 @@
 <h3 align="left">Tool:</h3>
 <span > <img src="https://img.shields.io/badge/Visual Studio Code-F9FAFB?logo=VisualStudioCode&logoColor=007ACC" alt="Visual Studio Code" height="36"/> </span>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<span > <img src="https://img.shields.io/badge/Eclipse-F9FAFB?logo=EclipseIDE&logoColor=#C2255" alt="Postman" height="36"/> </span>
+<span > <img src="https://img.shields.io/badge/Eclipse-F9FAFB?logo=EclipseIDE&logoColor=2C2255" alt="Postman" height="36"/> </span>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <span > <img src="https://img.shields.io/badge/Figma-F9FAFB?logo=figma&logoColor=F24E1E" alt="figma" height="36"/> </span>
 &nbsp;&nbsp;&nbsp;&nbsp;
