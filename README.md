@@ -11,6 +11,7 @@
 
 <h3 style="margin-left: 4px" align="left">Programming Languages</h3>
     <div
+    align="left"
       id="programming-languages"
       style="height: 60px; display:flex; margin-right: 8px; margin-left: 8px; justify-content: space-around"
     >
@@ -27,6 +28,7 @@
       </div>
 
 <div
+  align="left"
         style="
           opacity: 1; border-radius: 12px; background-color: #dee2e6; padding-right: 12px; padding-left: 12px; padding-top: 16px; padding-bottom: 16px; display: flex; justify-content: between; align-items:center
         "
