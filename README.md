@@ -13,7 +13,6 @@
 <h3 align="left">Programming Languages:</h3>
 <span > <img src="https://img.shields.io/badge/Javascript-F9FAFB?logo=javascript&logoColor=e3ca05" alt="javascript" height="36"/> </span>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<span > <img src="https://img.shields.io/badge/Typescript-F9FAFB?logo=typescript&logoColor=3178C6" alt="typescript" height="36"/> </span>
 
 &nbsp;
 
